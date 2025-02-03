@@ -28,15 +28,4 @@ Each model may be used for different types of predictions:
 - **Regression**: Predicting the **year of death**.
 - **Classification**: Predicting the **manner of death** or other categorical variables.
 
-### **Why Separate Notebooks?**
-Each notebook is **dedicated to one model** to ensure clarity and focus. This allows for:
-- **A deep dive into each modeling approach**.
-- **More modular comparisons** between models.
-- **Easier scalability** as new models are added to the repository.
-
-### **Next Steps**
-✅ Implement additional models to expand the repository.  
-✅ Evaluate model performances systematically.  
-✅ Share insights on which models work best for different tasks.  
-
 🚀 Stay tuned for updates and new model implementations!
